@@ -10,4 +10,4 @@ setname($name)
   ?> 
 
 </body> 
-</html> 
+</html>  
