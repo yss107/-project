@@ -1,0 +1,9 @@
+<html> 
+    <body> 
+
+<?php 
+$str = "hello world "; 
+echo "without trim ",$str; 
+?> 
+    </body>
+</html>

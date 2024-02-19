@@ -1,0 +1,11 @@
+<html>
+    <body> 
+
+<?php  
+
+$str = "hello world";
+
+echo str_replace("hello", "yash",$str); 
+?> 
+    </body>
+</html>
